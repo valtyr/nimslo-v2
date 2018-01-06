@@ -3,6 +3,8 @@
 
 An experiment to emulate the "Nimslo" camera effect with a few smartphones. Developed with Expo.
 
+To be used in conjunction with [nimslo-server](https://github.com/egilll/nimslo-server).
+
 ### Setup
 
 Clone the repository and run:
