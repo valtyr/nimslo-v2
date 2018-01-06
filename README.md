@@ -18,13 +18,8 @@ uploads the images to a server that combines them into an animated gif that can 
 
 ### Setup
 
-Clone the repository and run:
-
-```Shell
-yarn
-```
-
-Install the Expo XDE or the exp CLI and run the app from there.
+* Clone the repository and run: `yarn`.
+* Install the Expo XDE or the exp CLI and run the app from there.
 
 <hr/>
 
