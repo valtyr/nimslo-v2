@@ -1,6 +1,17 @@
 import React from 'react';
 import {StackNavigator} from 'react-navigation';
 
-const  = () => ;
+import CameraScreen from './screens/CameraScreen';
 
-export default ;
+const TopNavigator = StackNavigator(
+  {
+    Camera: {
+      screen: CameraScreen,
+    },
+  },
+  {
+    headerMode: 'none',
+  },
+);
+
+export default TopNavigator;
